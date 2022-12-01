@@ -4,8 +4,8 @@
 
   ## Description
   This application is a E-commerce Back End.
-  ## App_Img
-  ![Web brief](img/app-sample.png "Web sample")
+  ## Sample_Img
+  ![Web brief](img/Sample-img.png"sample")
 
   ## Table of Contents
   * [Installation](#installation)
@@ -23,7 +23,7 @@
   * Use command 'npm run seed'seed data to your database so that you can test your routes
 
   ## Usage 
-  Use the command 'node server.js" to start the app.to sync the Sequelize models to the MySQL database on server start. 
+  Use the command 'node server.js" to sync the Sequelize models to the MySQL database on server start. 
   [Video-Demo-link](https://drive.google.com/file/d/1soAX46W6mGwqDa7XHk8J1Z8XX__2vdeq/view?usp=sharing)
 
   ## License 
