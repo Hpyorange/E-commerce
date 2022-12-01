@@ -5,7 +5,7 @@
   ## Description
   This application is a E-commerce Back End.
   ## Sample_Img
-  ![Web brief](img/Sample-img.png"sample")
+  ![sample](img/Sample-img.png "sample")
 
   ## Table of Contents
   * [Installation](#installation)
